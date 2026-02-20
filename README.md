@@ -1,4 +1,4 @@
-# everyday_tools-and-things
+# everyday_tools-and-things NOTE SOURCE CODE NOT UPLOADED, NO RELEASES. CURRENTLY WE ARE FOCUSING ON FIXING BUGS
 A collection of tools. 
 
 # Libaries and Applications
