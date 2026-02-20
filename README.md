@@ -1,0 +1,2 @@
+# everyday_tools-and-things
+A collection of tools. HEADSUP: MEDIA_PLAYER.PY WILL NOT PLAY ANY VIDEO FORMAT AND IT WILL CRASH ON ANY VIDEO FORMAT
